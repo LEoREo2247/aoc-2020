@@ -31,5 +31,7 @@ def fix_corrupted
   end
 end
 
+# Part 1
 p run
+# Part 2
 p fix_corrupted
